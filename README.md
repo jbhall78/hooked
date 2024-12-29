@@ -18,7 +18,7 @@ This project is open source, encouraging collaboration and innovation within the
 Features:
 ---------
 
-* Unique Blend: Highlights the combination of 2D and 3D elements.
+* Unique Blend, combination of 2D and 3D elements.
 * Fast-Paced Action: Arcade-style gameplay.
 * Open Source
 
